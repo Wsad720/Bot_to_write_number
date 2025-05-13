@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\bin\Debug\net8.0\Bot wypisujący liczby.exe
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\bin\Debug\net8.0\Bot wypisujący liczby.deps.json
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\bin\Debug\net8.0\Bot wypisujący liczby.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\bin\Debug\net8.0\Bot wypisujący liczby.dll
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\bin\Debug\net8.0\Bot wypisujący liczby.pdb
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\Bot wypisujący liczby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\Bot wypisujący liczby.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\Bot wypisujący liczby.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\Bot wypisujący liczby.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\Bot wypisujący liczby.dll
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\refint\Bot wypisujący liczby.dll
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\Bot wypisujący liczby.pdb
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\Bot wypisujący liczby.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Bot wypisujący liczby\obj\Debug\net8.0\ref\Bot wypisujący liczby.dll
