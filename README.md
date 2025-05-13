@@ -9,4 +9,3 @@ caused by it, you can use it only for educational purposes in a strictly control
 
 This project is licensed under the MIT License.  
 Use it at your own risk — no warranties or guarantees are provided.  
-See the [LICENSE](./LICENSE) file for full details.
