@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\bot for counting\bin\Debug\net8.0\bot for counting.exe
+C:\Users\Gabriel\source\repos\bot for counting\bin\Debug\net8.0\bot for counting.deps.json
+C:\Users\Gabriel\source\repos\bot for counting\bin\Debug\net8.0\bot for counting.runtimeconfig.json
+C:\Users\Gabriel\source\repos\bot for counting\bin\Debug\net8.0\bot for counting.dll
+C:\Users\Gabriel\source\repos\bot for counting\bin\Debug\net8.0\bot for counting.pdb
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\bot for counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\bot for counting.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\bot for counting.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\bot for counting.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\bot for counting.dll
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\refint\bot for counting.dll
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\bot for counting.pdb
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\bot for counting.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\bot for counting\obj\Debug\net8.0\ref\bot for counting.dll
