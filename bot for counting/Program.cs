@@ -57,8 +57,8 @@ class Program
 
     static void PressKey(byte key)
     {
-        keybd_event(key, 0, 0, UIntPtr.Zero);                // wciśnięcie
-        keybd_event(key, 0, KEYEVENTF_KEYUP, UIntPtr.Zero);  // puszczenie
+        keybd_event(key, 0, 0, UIntPtr.Zero);                
+        keybd_event(key, 0, KEYEVENTF_KEYUP, UIntPtr.Zero); 
         Thread.Sleep(50);
     }
 }
